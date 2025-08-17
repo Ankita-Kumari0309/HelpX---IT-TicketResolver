@@ -20,7 +20,10 @@ Output :-
 - **Automated Ticket Categorization**: AI agents classify tickets (e.g., Password Reset, Network Issue) for faster resolution.  
 - **Knowledge Base Retrieval**: Uses vector similarity search to fetch the most relevant solutions from a curated knowledge base.  
 - **Email Escalation**: Tickets unresolved by AI are automatically escalated to IT support.  
-- **Interactive Streamlit UI**: Simple web interface for submitting tickets, viewing solutions, and providing feedback.  
+- **Interactive Streamlit UI**: Simple web interface for submitting tickets, viewing solutions, and providing feedback.
+
+  <img width="1536" height="1024" alt="ChatGPT Image Aug 17, 2025, 09_35_22 PM" src="https://github.com/user-attachments/assets/6b892df2-3721-4e60-874b-1c26e9533a62" />
+
 
 ---
 
