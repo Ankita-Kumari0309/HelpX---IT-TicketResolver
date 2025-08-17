@@ -1,0 +1,8 @@
+python-dotenv
+openai
+autogen
+
+azure-search-documents
+tqdm
+autogen_core
+streamlit
